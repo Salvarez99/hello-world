@@ -13,7 +13,7 @@ have an CS Associates Degree and am pursuing my Bachelor's Degree.
 3. html
 
 ### **My To-Do List**
-[] Learn how to use GitHub <br>
-[] Upload my university projects to GitHub <br>
-[] Upload my personal projects to GitHub <br>
-[] Link my projects to my resume <br>
+[x] Learn how to use GitHub <br>
+[x] Upload my university projects to GitHub <br>
+[x] Upload my personal projects to GitHub <br>
+[x] Link my projects to my resume <br>
